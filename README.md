@@ -1,3 +1,1 @@
-# scuChatGPT
-
 ## Course @ SCU
